@@ -1,4 +1,4 @@
-# SaniyaTaneja.github.io
+
 # Saniya Taneja – Personal Profile Website
 
 A personal profile webpage built with HTML and CSS and hosted on GitHub Pages, for web technology assignment.
