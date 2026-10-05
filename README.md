@@ -1,7 +1,7 @@
 # SaniyaTaneja.github.io
 # Saniya Taneja – Personal Profile Website
 
-A personal profile webpage built with HTML and CSS and hosted on GitHub Pages.
+A personal profile webpage built with HTML and CSS and hosted on GitHub Pages, for web technology assignment.
 
 **Live site:** https://saniyataneja5-netizen.github.io/
 
@@ -17,22 +17,7 @@ This site introduces me as a third-year B.Tech student in Computer and Communica
 - Interests and hobbies
 - Contact details and social links
 
-## Built with
 
-- HTML5 (semantic structure)
-- CSS3 (Grid, Flexbox, custom properties, media queries)
-- Google Fonts: Bricolage Grotesque and Literata
-- GitHub Pages for hosting
-
-No frameworks or JavaScript are used.
-
-## Features
-
-- **Responsive layout:** adapts to desktop, tablet and mobile screens
-- **Dark mode:** follows the visitor's system theme automatically
-- **Accessible:** skip link, keyboard focus outlines, alt text and reduced-motion support
-- **Print-friendly:** prints as a clean one-column page
-- **Custom SVG diagram:** an animated illustration for the KAVACH project
 
 ## Project structure
 
